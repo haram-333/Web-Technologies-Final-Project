@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment files
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors (optional based on your editor)
+.vscode/
+.idea/
+
+# Build files (if you are using any build system)
+dist/
+build/
+
+# npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
